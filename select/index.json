@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "宇宙散歩",
+  "base_artist": "DECO*27",
+  "createdAt": "2026-03-09T01:13:26.185834Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "宇宙散歩",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_宇宙散歩_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "宇宙散歩  (Uchuu Sanpo)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_宇宙散歩_(Uchuu_Sanpo)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "宇宙散歩",
+      "artist": "DECO∗27",
+      "has_synced": true,
+      "path": "select/03_宇宙散歩_DECO∗27.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宇宙散歩",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_宇宙散歩_DECO_27.txt"
+    }
+  ]
+}
